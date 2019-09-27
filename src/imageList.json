@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Death Knight",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/148/deathknight_15.png"
+  },
+  {
+    "id": 2,
+    "name": "Druid",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/149/druid_22.png"
+  },
+  {
+    "id": 3,
+    "name": "Hunter",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/150/hunter_4.png"
+  },
+  {
+    "id": 4,
+    "name": "Mage",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/151/mage_13.png"
+  },
+  {
+    "id": 5,
+    "name": "Paladin",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/152/paladin_10.png"
+  },
+  {
+    "id": 6,
+    "name": "Priest",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/153/priest_12.png"
+  },
+  {
+    "id": 7,
+    "name": "Rogue",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/154/rogue_8.png"
+  },
+  {
+    "id": 8,
+    "name": "Shaman",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/155/shaman_5.png"
+  },
+  {
+    "id": 9,
+    "name": "Warlock",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/156/warlock_21.png"
+  },
+  {
+    "id": 10,
+    "name": "Warrior",
+    "image": "http://media-hearth.cursecdn.com/attachments/0/157/warrior_11.png"
+  }
+]
